@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
+[![MasterHead](https://images.ctfassets.net/szez98lehkfm/5RPbDihFheFvN1RWhyRfbY/fb286bb568a3d5c093419dee333113e8/MyIC_Article_114191?w=730&h=410&fm=jpg&fit=fill)
 <h1 align="center">Hi 👋, I'm JANARDANJANGID9771</h1>
 <h3 align="center">A passionate Software Engineer developer from India</h3>
 
