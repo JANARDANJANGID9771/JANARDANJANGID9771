@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janardanjangid9771&label=Profile%20views&color=0e75b6&style=flat" alt="janardanjangid9771" /> </p>
 
-- 🔭 I’m currently working on **C++,JAVA**
+- 🔭 I’m currently working on **C++,python**
 
 - 📫 How to reach me **JANARDAN63717@gmail.com**
 
